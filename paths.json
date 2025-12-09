@@ -1,11 +1,11 @@
 {
   "mappings": [
-    "/content/sw-groceries/:/",
-    "/content/sw-groceries/configuration:/.helix/config.json",
-    "/content/sw-groceries/metadata:/metadata.json"
+    "/content/greeks/:/",
+    "/content/greeks/configuration:/.helix/config.json",
+    "/content/greeks/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/sw-groceries/"
+    "/content/greeks/"
   ]
 }
  
