@@ -1,6 +1,1 @@
-mountpoints:
-  /:
-    url: "https://author-p28413-e1512521.adobeaemcloud.com/bin/franklin.delivery/smomin/groceries/main"
-    type: "markup"
-    suffix: ".html"
- 
+
